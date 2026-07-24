@@ -1,6 +1,5 @@
 # Keebs
 
-
 ### GH60 - DONE
 
 1. √ Desolder Zealio V1s
@@ -23,9 +22,10 @@
    - BS, Ret, and Space are T1 switches
    - They're stock, neither filmed nor lubed.
 
+
 #### Details
 | Detail    |   Value  |
-|-----------|----------|
+| --------- | -------- |
 | Firmware  |   Via    |
 | PCB       |   GH60 rev. C    |
 | MCU       |   ATmega32U4    |
@@ -59,9 +59,10 @@
 1. Reprogram
 1. Solder in LEDs
 
+
 #### Details
 | Detail    |   Value  |
-|-----------|----------|
+| --------- | -------- |
 | Firmware  |   Kiibohd Controller    |
 | PCB       |   Whitefox 1.1    |
 | MCU       |       |
@@ -91,7 +92,7 @@
 
 #### Details
 | Detail    |   Value  |
-|-----------|----------|
+| --------- | -------- |
 | Firmware  |   Via    |
 | PCB       |   stock    |
 | MCU       |       |
@@ -123,7 +124,7 @@
 
 #### Details
 | Detail    |   Value  |
-|-----------|----------|
+| --------- | -------- |
 | Firmware  |   Via    |
 | PCB       |   CODE V2B with a WASDat controller    |
 | MCU       |       |
@@ -149,7 +150,7 @@
 
 #### Details
 | Detail    |   Value  |
-|-----------|----------|
+| --------- | -------- |
 | Firmware  |   xxx    |
 | PCB       |   xxx    |
 | MCU       |   xxx    |
@@ -170,7 +171,7 @@
 #### Details
 
 | Detail    |   Value  |
-|-----------|----------|
+| --------- | -------- |
 | Firmware  |   original    |
 | PCB       |   xxx    |
 | MCU       |   xxx    |
@@ -184,10 +185,6 @@
 | Case      |   stock    |
 
 
-
-
-
-
 #### Links
 
 * [Massdrop Infinity ErgoDox Keyboard Kit](https://drop.com/buy/infinity-ergodox)
@@ -199,7 +196,7 @@
 
 #### Details
 | Detail    |   Value  |
-|-----------|----------|
+| --------- | -------- |
 | Firmware  |   QMK    |
 | PCB       |   Filco    |
 | MCU       |   ATmega32U2    |
@@ -213,7 +210,6 @@
 | Case      |   Filco    |
 
 
-
 # Switches
 
 ## Vintage Cherry Blacks
@@ -225,14 +221,12 @@
 1. Experiment with Outemu silent stems
 
 
-
-
 # Notes
 
 ## switch spring sizes
 
 | Switch          |   Diam/mm  |  Daim./in. |
-|-----------------|------------|----------- |
+| --------------- | ---------- | ---------- |
 | gateron clear   |   3.7mm    |  0.14"     |
 | cherry brown    |   3.7mm    |  0.14"     |
 | cherry clear    |   3.8mm    |  0.15"     |
@@ -243,7 +237,7 @@
 ## Key switch count by keyboard
 
 | Keyboard            |  Num of keys |
-|---------------------|--------------|
+| ------------------- | ------------ |
 | CODE (Tenkeyless)   |    87 keys   |
 | Whitefox (true fox) |    67 - 69 keys   |
 | Satisfaction 75     |    78 - 80 keys   |
