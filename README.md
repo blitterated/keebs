@@ -207,6 +207,28 @@
 | Case      | Stock             |
 
 
+### Switches
+
+* All Durock Blue Macaws, hand (re)lubed to remove spring ping
+* Exceptions
+  * Blue Macaw, hand (re)lubed
+    * Home row: a, s, d, f, h, k, l, '
+  * Zealio V1
+    * Capslock & Backspace
+  * Boba U4, all black (3DKeebs)
+    * Enter
+  * Franken-Blacks
+    * Left & Right Shift
+    * Switch build
+      * Vintage Cherry Black shells
+      * Outemu silver silent linear stems
+      * 63.5g triple coil springs
+      * Deskeys films
+      * Hand lubed
+  * T1
+    * Space bar
+
+
 ## Keychron K6
 
 ### Details
