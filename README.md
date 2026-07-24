@@ -206,6 +206,22 @@
 | Case      | Stock          |
 
 
+### Keychron K6 Switches
+
+* Durock Silent Shrimp 67g
+* Exceptions
+  * Durock Blue Macaw 65g
+    * Esc, Tab, Capslock
+    * L & R Shift
+    * L & R Ctrl, Opt, Cmd
+    * Fn1, Fn2
+    * Arrow keys
+    * Enter, Backslash
+    * “Lightbulb”, Home, Page Up Page Down
+  * Gazzew Boba U4 63.5g
+    * Backspace
+
+
 ### Keychron K6 Key Count
 
 | Row       | Count   |
