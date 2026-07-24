@@ -187,6 +187,26 @@
 * [Massdrop Jukebox SA Custom Keycap Set](https://drop.com/buy/jukebox-sa-keyset)
 
 
+## Command 65
+
+### Details
+
+| Detail    | Value             |
+| --------- | ----------------- |
+| Firmware  | Via custom fork   |
+| PCB       | ???               |
+| MCU       | ???               |
+| Backplate | ???               |
+| Switches  | _See below_       |
+| Films     | None              |
+| Springs   | _See below_       |
+| Stabs     | Stock Cherry      |
+| Lube      | None              |
+| Springs   | _See below_       |
+| Caps      | GMK 800 OS2.0     |
+| Case      | Stock             |
+
+
 ## Keychron K6
 
 ### Details
