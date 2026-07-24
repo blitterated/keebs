@@ -256,9 +256,9 @@
 
 | Switch          | Diam/mm | Daim./in. |
 | --------------- | ------- | --------- |
-| Gateron Clear   | 3.7mm   | 0.14"     |
 | Cherry Brown    | 3.7mm   | 0.14"     |
 | Cherry Clear    | 3.8mm   | 0.15"     |
+| Gateron Clear   | 3.7mm   | 0.14"     |
 | Hako True       | 3.3mm   | 0.13"     |
 | Hako Violet     | 3.4mm   | 0.13"     |
 
@@ -269,7 +269,7 @@
 | ------------------- | -------------- |
 | CODE (Tenkeyless)   | 87 keys        |
 | GH60                | 61 keys        |
-| Rocketeer           | 61 keys        |
 | Keychron K6         | 68 keys        |
-| Whitefox (True Fox) | 67 - 69 keys   |
+| Rocketeer           | 61 keys        |
 | Satisfaction 75     | 78 - 80 keys   |
+| Whitefox (True Fox) | 67 - 69 keys   |
