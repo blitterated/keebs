@@ -249,3 +249,15 @@
 | Satisfaction 75     |    78 - 80 keys   |
 | GH60                |    61 keys   |
 | Rocketeer           |    61 keys   |
+| Keychron K6         |    68 keys   |
+
+
+### Keychron K6 Rows
+
+| Row | Count |
+| --- | ----- |
+| R1  |  15   |
+| R2  |  15   |
+| R3  |  14   |
+| R4  |  14   |
+| R5  |  10   |
