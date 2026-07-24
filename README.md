@@ -206,7 +206,7 @@
 | Case      | Stock          |
 
 
-### Keychron K6 Rows
+### Keychron K6 Key Count
 
 | Row       | Count   |
 | --------- | ------- |
