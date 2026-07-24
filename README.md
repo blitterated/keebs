@@ -168,6 +168,7 @@
 1. ???
 
 #### Details
+
 | Detail    |   Value  |
 |-----------|----------|
 | Firmware  |   original    |
@@ -183,10 +184,15 @@
 | Case      |   stock    |
 
 
+
+
+
+
 #### Links
-[Massdrop Infinity ErgoDox Keyboard Kit](https://drop.com/buy/infinity-ergodox)
-[Massdrop Anodized Alulminum Infinity ErgoDox Plate](https://drop.com/buy/anodized-aluminum-infinity-ergodox-top-plate)
-[Massdrop Jukebox SA Custom Keycap Set](https://drop.com/buy/jukebox-sa-keyset)
+
+* [Massdrop Infinity ErgoDox Keyboard Kit](https://drop.com/buy/infinity-ergodox)
+* [Massdrop Anodized Alulminum Infinity ErgoDox Plate](https://drop.com/buy/anodized-aluminum-infinity-ergodox-top-plate)
+* [Massdrop Jukebox SA Custom Keycap Set](https://drop.com/buy/jukebox-sa-keyset)
 
 
 ### Filco - Cherry brown
@@ -206,9 +212,11 @@
 | Caps      |       |
 | Case      |   Filco    |
 
+
+
 # Switches
 
-### Vintage Cherry Blacks
+## Vintage Cherry Blacks
 
 1. Disassemble cherry blacks
 1. Sonic scrub cherry black parts
@@ -216,9 +224,12 @@
 1. Film cherry blacks
 1. Experiment with Outemu silent stems
 
+
+
+
 # Notes
 
-### switch spring sizes
+## switch spring sizes
 
 | Switch          |   Diam/mm  |  Daim./in. |
 |-----------------|------------|----------- |
@@ -229,7 +240,7 @@
 | hako violet     |   3.4mm    |  0.13"     |
 
 
-### Key switch count by keyboard
+## Key switch count by keyboard
 
 | Keyboard            |  Num of keys |
 |---------------------|--------------|
