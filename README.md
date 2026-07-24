@@ -237,6 +237,19 @@
 | Case      | Stock Filco         |
 
 
+## Apple AEK I
+
+### Apple AEK I Key Count
+
+| Zone                    | Count   |
+| ----------------------- | ------- |
+| Function Key Row        | 17      |
+| Alpha/Num Base          | 60      |
+| Holy Cluster and Arrows | 10      |
+| 10-key Keypad           | 18      |
+| __Total__               | __105__ |
+
+
 # Switches
 
 ## Vintage Cherry Blacks
