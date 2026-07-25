@@ -211,11 +211,11 @@
 
 * All Durock Blue Macaws, hand (re)lubed to remove spring ping
 * Exceptions
-  * Blue Macaw, hand (re)lubed
-    * Home row: a, s, d, f, h, k, l, '
   * Zealio V1
     * Capslock & Backspace
   * Boba U4, all black (3DKeebs)
+    * Space bar
+  * T1
     * Enter
   * Franken-Blacks
     * Left & Right Shift
@@ -225,8 +225,6 @@
       * 63.5g triple coil springs
       * Deskeys films
       * Hand lubed
-  * T1
-    * Space bar
 
 
 ## Keychron K6
