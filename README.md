@@ -118,75 +118,6 @@
    - Right Control is a filmed, TL635 spring swapped, lubed Cherry Clear
 
 
-## CODE Keyboard
-
-### Details
-
-| Detail    | Value                                                                                    |
-| --------- | ---------------------------------------------------------------------------------------- |
-| Firmware  | Via                                                                                      |
-| PCB       | CODE V2B with a WASDat controller                                                        |
-| MCU       | ???                                                                                      |
-| Backplate | Stock steel                                                                              |
-| Switches  | Cherry Clear + 2x T1s                                                                    |
-| Films     | Deskeys 0.3 mm                                                                           |
-| Springs   | Wuque Studio TL635                                                                       |
-| Stabs     | Stock Costars, lubed and bandaid modded                                                  |
-| Lube      | Krytox 205 G0 (not in T1s)                                                               |
-| Caps      | Tecware Double-Shot, PBT, Shine-through, Black/Grey Keycaps, Rosewill RO-100 T o-rings   |
-| Case      | Stock                                                                                    |
-
-
-### TODO
-
-1. ✅ Order TL635 springs
-1. ✅ Lube and spring swap Cherry clears
-   - Space bar is a Cherry Brown with a TL635 spring
-1. ✅ Add Desk Keys films to switches
-1. ✅ Soak and scrub the costar stabs in detergent to remove vasoline
-1. ✅ Soak and scrub the costar stabs in alcohol to remove detergent
-1. ✅ Silence Costar stabs
-1. ✅ Pop switches into backplate
-1. ✅ Solder into CODE
-1. Fix spacebar stab. Add bends at 45 degree angle
-1. Swap o-rings from old caps to new caps
-1. Add new caps
-
-
-### Links
-
-[CODE Keyboard](https://codekeyboards.com/)
-[Deskeys Gasket Switch Films](https://3dkeebs.com/products/deskeys-gasket-switch-films)
-[Tecware Double-Shot, PBT, Shine-through, Black/Grey Keycaps](https://www.amazon.com/dp/B08N6FNC6K?psc=1&ref=ppx_yo2ov_dt_b_product_details)
-[Wuque Studio TL635 Switch Springs](https://cannonkeys.com/collections/accessories/products/ws-switch-springs)
-
-
-## Infinity Ergodox
-
-### Details
-
-| Detail    | Value               |
-| --------- | ------------------- |
-| Firmware  | ???                 |
-| PCB       | ???                 |
-| MCU       | ???                 |
-| Backplate | ???                 |
-| Switches  | Stock Cherry Browns |
-| Films     | ???                 |
-| Springs   | ???                 |
-| Stabs     | ???                 |
-| Lube      | ???                 |
-| Caps      | ???                 |
-| Case      | ???                 |
-
-
-### Links
-
-* [Massdrop Infinity ErgoDox Keyboard Kit](https://drop.com/buy/infinity-ergodox)
-* [Massdrop Anodized Alulminum Infinity ErgoDox Plate](https://drop.com/buy/anodized-aluminum-infinity-ergodox-top-plate)
-* [Massdrop Jukebox SA Custom Keycap Set](https://drop.com/buy/jukebox-sa-keyset)
-
-
 ## Command 65
 
 ### Details
@@ -274,6 +205,88 @@
 | __Total__ | __68__  |
 
 
+## Apple AEK I
+
+### Apple AEK I Key Count
+
+| Zone                    | Count   |
+| ----------------------- | ------- |
+| Function Key Row        | 17      |
+| Alpha/Num Base          | 60      |
+| Holy Cluster and Arrows | 10      |
+| 10-key Keypad           | 18      |
+| __Total__               | __105__ |
+
+
+## CODE Keyboard
+
+### Details
+
+| Detail    | Value                                                                                    |
+| --------- | ---------------------------------------------------------------------------------------- |
+| Firmware  | Via                                                                                      |
+| PCB       | CODE V2B with a WASDat controller                                                        |
+| MCU       | ???                                                                                      |
+| Backplate | Stock steel                                                                              |
+| Switches  | Cherry Clear + 2x T1s                                                                    |
+| Films     | Deskeys 0.3 mm                                                                           |
+| Springs   | Wuque Studio TL635                                                                       |
+| Stabs     | Stock Costars, lubed and bandaid modded                                                  |
+| Lube      | Krytox 205 G0 (not in T1s)                                                               |
+| Caps      | Tecware Double-Shot, PBT, Shine-through, Black/Grey Keycaps, Rosewill RO-100 T o-rings   |
+| Case      | Stock                                                                                    |
+
+
+### TODO
+
+1. ✅ Order TL635 springs
+1. ✅ Lube and spring swap Cherry clears
+   - Space bar is a Cherry Brown with a TL635 spring
+1. ✅ Add Desk Keys films to switches
+1. ✅ Soak and scrub the costar stabs in detergent to remove vasoline
+1. ✅ Soak and scrub the costar stabs in alcohol to remove detergent
+1. ✅ Silence Costar stabs
+1. ✅ Pop switches into backplate
+1. ✅ Solder into CODE
+1. Fix spacebar stab. Add bends at 45 degree angle
+1. Swap o-rings from old caps to new caps
+1. Add new caps
+
+
+### Links
+
+[CODE Keyboard](https://codekeyboards.com/)
+[Deskeys Gasket Switch Films](https://3dkeebs.com/products/deskeys-gasket-switch-films)
+[Tecware Double-Shot, PBT, Shine-through, Black/Grey Keycaps](https://www.amazon.com/dp/B08N6FNC6K?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+[Wuque Studio TL635 Switch Springs](https://cannonkeys.com/collections/accessories/products/ws-switch-springs)
+
+
+## Infinity Ergodox
+
+### Details
+
+| Detail    | Value               |
+| --------- | ------------------- |
+| Firmware  | ???                 |
+| PCB       | ???                 |
+| MCU       | ???                 |
+| Backplate | ???                 |
+| Switches  | Stock Cherry Browns |
+| Films     | ???                 |
+| Springs   | ???                 |
+| Stabs     | ???                 |
+| Lube      | ???                 |
+| Caps      | ???                 |
+| Case      | ???                 |
+
+
+### Links
+
+* [Massdrop Infinity ErgoDox Keyboard Kit](https://drop.com/buy/infinity-ergodox)
+* [Massdrop Anodized Alulminum Infinity ErgoDox Plate](https://drop.com/buy/anodized-aluminum-infinity-ergodox-top-plate)
+* [Massdrop Jukebox SA Custom Keycap Set](https://drop.com/buy/jukebox-sa-keyset)
+
+
 ## Filco
 
 ### Details
@@ -291,19 +304,6 @@
 | Lube      | None                |
 | Caps      | ???                 |
 | Case      | Stock Filco         |
-
-
-## Apple AEK I
-
-### Apple AEK I Key Count
-
-| Zone                    | Count   |
-| ----------------------- | ------- |
-| Function Key Row        | 17      |
-| Alpha/Num Base          | 60      |
-| Holy Cluster and Arrows | 10      |
-| 10-key Keypad           | 18      |
-| __Total__               | __105__ |
 
 
 # Switches
