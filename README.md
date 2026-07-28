@@ -140,22 +140,11 @@
 
 ### Switches
 
-* All Durock Blue Macaws, hand (re)lubed to remove spring ping
+* All Durock Blue Macaws 65g
+    * Hand (re)lubed to remove spring ping
 * Exceptions
-  * Zealio V1
-    * Capslock & Backspace
-  * Boba U4, all black (3DKeebs)
-    * Space bar
-  * T1
-    * Enter
-  * Franken-Blacks
-    * Left & Right Shift
-    * Switch build
-      * Vintage Cherry Black shells
-      * Outemu silver silent linear stems
-      * 63.5g triple coil springs
-      * Deskeys films
-      * Hand lubed
+  * Durock Silent Shrimps 67g
+    * Capslock, Backspace, and Enter
 
 
 ## Keychron K6
@@ -317,6 +306,14 @@
 1. Lube cherry blacks
 1. Film cherry blacks
 1. Experiment with Outemu silent stems
+
+### Franken-Blacks
+
+* Vintage Cherry Black shells
+* Outemu silver silent linear stems
+* 63.5g triple coil springs
+* Deskeys films
+* Hand lubed
 
 
 # Notes
