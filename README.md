@@ -176,10 +176,9 @@
     * L & R Ctrl, Opt, Cmd
     * Fn1, Fn2
     * Arrow keys
-    * Enter, Backslash
+    * Backspace, Backslash, Enter
     * “Lightbulb”, Home, Page Up Page Down
-  * Gazzew Boba U4 63.5g
-    * Backspace
+    * Pinky keys: 1 q a z 0 - = p [ ] \\ ; ' /
 
 
 ### Keychron K6 Key Count
