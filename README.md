@@ -316,6 +316,22 @@
 * Hand lubed
 
 
+## Gazzew Boba Black U4-T
+
+All black 3DKeebs Boba Black edition.
+
+| Traits                  | &nbsp;             |
+| ----------------------- | ------------------ |
+| Switch Type             | Silent Tactile     |
+| Manufacturer            | Gazzew             |
+| Top Housing Material    | Gazzew Proprietary |
+| Bottom Housing Material | Gazzew Proprietary |
+| Stem Material           | POM                |
+| Spring Weight           | 65g                |
+| Mounting Pins           | 5-pin              |
+| Factory Lube            | Yes                |
+
+
 ## Durock Blue Macaws
 
 | Traits                  | &nbsp;         |
