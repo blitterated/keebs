@@ -330,6 +330,20 @@
 | Factory Lube            | Yes            |
 
 
+## Durock Silent Shrimp T1
+
+| Traits                  | &nbsp;         |
+| ----------------------- | -------------- |
+| Switch Type             | Silent Tactile |
+| Manufacturer            | Durock         |
+| Top Housing Material    | Polycarbonate  |
+| Bottom Housing Material | Nylon          |
+| Stem Material           | POM (T1 mold)  |
+| Spring Weight           | 67g            |
+| Mounting Pins           | 5-pin          |
+| Factory Lube            | Yes            |
+
+
 # Notes
 
 ## Switch spring sizes
