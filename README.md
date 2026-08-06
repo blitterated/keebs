@@ -360,6 +360,20 @@ All black 3DKeebs Boba Black edition.
 | Factory Lube            | Yes            |
 
 
+## HMX Volume 0 T
+
+| Traits                  | &nbsp;         |
+| ----------------------- | -------------- |
+| Switch Type             | Silent Tactile |
+| Manufacturer            | HMX            |
+| Top Housing Material    | PA12           |
+| Bottom Housing Material | Modified PA66  |
+| Stem Material           | POM + PTFE     |
+| Spring Weight           | 53g            |
+| Mounting Pins           | 5-pin          |
+| Factory Lube            | Yes            |
+
+
 # Notes
 
 ## Switch spring sizes
