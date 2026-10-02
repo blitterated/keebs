@@ -294,6 +294,25 @@
 | Case      | Stock Filco         |
 
 
+## Poker II
+
+### Details
+
+| Detail    |   Value                       |
+| --------- | ----------------------------- |
+| Firmware  | QMK                           |
+| PCB       | MK61 Hotswap PCB ANSI 60% RGB |
+| MCU       | ???                           |
+| Backplate | Stock                         |
+| Switches  | HMX Butter Silent Tactile 42g |
+| Films     | None                          |
+| Springs   | Stock                         |
+| Stabs     | Gateron Crystal Screw In      |
+| Lube      | Factory                       |
+| Caps      | Stock Poker II                |
+| Case      | Stock Poker II                |
+
+
 # Switches
 
 ## Vintage Cherry Blacks
